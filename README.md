@@ -3,7 +3,7 @@
 Hello👋, I'm Sanika Ghugare, a passionate MERN Stack developer from India. I love exploring new technologies and applying them to solve real-world problems. 
 
 # 💫 About Me:
--🔭 I'm currently working on React.js, Node.js<br>- 🌱 I’m currently learning Next.js to enhance my skills as a full-stack web developer and build more efficient , server-side rendered applications.<br>- 💬 Ask me about JavaScript, React Js, Typescript and SQL<br>- 📫 How to reach me: sanikaghugare8840@gmail.com<br>-
+-🔭 I'm currently working on React.js, Node.js<br>- 🌱 I’m currently learning Next.js to enhance my skills as a full-stack web developer and build more efficient , server-side rendered applications.<br>- 💬 Ask me about JavaScript, React Js, Typescript and SQL<br>- 📫 How to reach me: sanikaghugare8840@gmail.com
 
 
 ## 🌐 Socials:
