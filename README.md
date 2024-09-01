@@ -6,7 +6,6 @@ Hello👋, I'm Sanika Ghugare, a passionate MERN Stack developer from India. I l
 # 💫 About Me:
 -🔭 I'm currently working on [Intelli](https://github.com/GhugareSanika/Intelli.git).<br>- 🌱 I’m currently learning Next.js to enhance my skills as a full-stack web developer and build more efficient , server-side rendered applications.<br>- 💬 Ask me about JavaScript, React Js, Typescript and SQL<br>- 📫 How to reach me: sanikaghugare8840@gmail.com
 
-
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanika-ghugare-6158a0288/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@sanika_ghu74842) 
 
