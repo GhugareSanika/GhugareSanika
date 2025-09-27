@@ -4,7 +4,7 @@ Hello👋, I'm Sanika Ghugare, a passionate MERN Stack developer from India. I l
 
 
 # 💫 About Me:
--🔭 I'm currently working on [BookHive](https://github.com/GhugareSanika/BookHive.git).<br>- 🌱 I’m currently learning React Native to enhance my skills as a full-stack developer and create more efficient, mobile-first applications..<br>- 💬 Ask me about JavaScript, React Js, Typescript and SQL<br>- 📫 How to reach me: sanikaghugare8840@gmail.com
+-🔭 I'm currently working on Next.js, React.js, Node.js.<br>- 🌱 I’m currently learning React Native to enhance my skills as a full-stack developer and create more efficient, mobile-first applications..<br>- 💬 Ask me about Next.js, JavaScript, React Js, Typescript, Node.js<br>- 📫 How to reach me: sanikaghugare8840@gmail.com
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanika-ghugare-6158a0288/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@sanika_ghu74842) 
